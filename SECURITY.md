@@ -24,4 +24,4 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 -->
 
-Please use the [GitHub Issue Tracker](https://github.com/USERNAME/REPO_NAME/issues) to report vulnerabilities.
+Please use the [GitHub Issue Tracker](https://github.com/gudon-ch/gudon-ch.github.io/issues) to report vulnerabilities.
